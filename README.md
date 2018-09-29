@@ -1,4 +1,6 @@
-# ASP.NET Core Options
+# Projects
+
+## ASP.NET Core Options
 
 `dotnet run --project src/Options/Options.csproj`
 
